@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning react",
+ "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venou/React.git"
+  },
+  "author": "Shiva Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venou/React/issues"
+  },
+  "homepage": "https://github.com/venou/React#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
